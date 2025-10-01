@@ -9,3 +9,5 @@ I am doing some commits. And this will keep my streak........ <br>
 This is for my streak. <br>
 This is almost 12 days... <br>
 Keeping my streak........ <br>
+I am learning Array.<br>
+I will learn Functions. <br>
