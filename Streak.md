@@ -10,5 +10,5 @@ This is for my streak. <br>
 This is almost 12 days... <br>
 Keeping my streak........ <br>
 I am learning Array.<br>
-I will learn Functions. <br>
+I will learn Functions.. <br>
 I have learned Sum using Function.. <br>
