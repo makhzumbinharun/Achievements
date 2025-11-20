@@ -8,11 +8,9 @@
 # <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muntahamoujim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muntahamoujim" height="30" width="40" /></a>
-<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mt-tuhin-hasnat" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mdtuhinhasnat" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mdtuhinhasnat" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mdtuhinhasnat" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="mdtuhinhasnat" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/such_whimsy_16" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="such_whimsy_16" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/muntahamoujim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mdtuhinhasnat" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/mun_taha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mun_taha" height="30" width="40" /></a>
 </p>
 
 # <h3 align="left">Languages and Tools</h3>
@@ -32,4 +30,4 @@
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Muntaha-mou&show_icons=true&theme=omni&rank_icon=github&border_radius=10" alt="readme stats"/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muntaha-mou&hide=HTML&langs_count=8&layout=compact&theme=omni&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
 
-  ![](https://komarev.com/ghpvc/?username=Muntaha-mou&label=Profile%20views&color=0e75b6&&style=for-the-badge)
+  ![](https://komarev.com/ghpvc/?username=Muntaha-mou&label=Profile%20views&color=191622&&style=for-the-badge)
