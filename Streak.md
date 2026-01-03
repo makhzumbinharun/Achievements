@@ -11,7 +11,7 @@ This is almost 12 days... <br>
 Keeping my streak........ <br>
 I am learning Array.<br>
 I will learn Functions.. <br>
-I have learned Sum using Function...................................................................<br>
+I have learned Sum using Function....................................................................<br>
 Array <br>
 Strings <br>
 Perform built-in string operations without using the built-in functions such as strlen(), strcpy(), strcat(), strcmp(), etc.
